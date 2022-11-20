@@ -1,0 +1,7 @@
+com/example/truck/app/model/Location.class
+com/example/truck/app/controller/TruckAppController.class
+com/example/truck/app/service/TruckAppService.class
+com/example/truck/app/SaisonOmniTruckAppApplication.class
+com/example/truck/app/service/TruckAppService$1.class
+com/example/truck/app/model/LocationDetails.class
+com/example/truck/app/utils/Utils.class
